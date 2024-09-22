@@ -1,0 +1,17 @@
+{
+  "name": "blog-tipscode",
+  "version": "0.1.9",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.6.2"
+  }
+}
